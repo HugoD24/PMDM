@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppMonstruo</string>
+    <string name="ingresar_primer_numero">Ingresar primer numero</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="divisi_n">División</string>
+    <string name="multipl">Multipl</string>
+    <string name="resultado">Resultado</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_clicado">No clicado</string>
+
+</resources>

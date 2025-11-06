@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExNov25alumnos</string>
+    <string name="imagen_de_la_receta">Imagen de la receta</string>
+    <string name="nombre_de_la_receta">Nombre de la Receta</string>
+    <string name="ex_consulta_de_recetas">Ex: Consulta de Recetas</string>
+    <string name="al_rgenos">Alérgenos</string>
+</resources>
