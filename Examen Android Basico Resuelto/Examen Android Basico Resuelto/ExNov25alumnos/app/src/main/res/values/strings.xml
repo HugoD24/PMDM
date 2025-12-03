@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExNov25alumnos</string>
+    <string name="ajustes">ajustes</string>
+    <string name="txt_tiempo">minutos</string>
+    <string name="txt_porciones">porciones</string>
+    <string name="appbartabs">Ingredientes</string>
+    <string name="viewpager">Pasos</string>
+</resources>

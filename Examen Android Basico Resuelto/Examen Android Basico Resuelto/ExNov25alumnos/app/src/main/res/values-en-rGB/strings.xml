@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExNov25alumnos</string>
+    <string name="ajustes">settings</string>
+    <string name="txt_tiempo">45 minutes</string>
+    <string name="txt_porciones">4 servings</string>
+    <string name="appbartabs">Ingredients</string>
+    <string name="viewpager">Steps</string>
+</resources>
